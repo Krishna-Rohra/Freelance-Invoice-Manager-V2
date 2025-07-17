@@ -1,0 +1,10 @@
+com\freelance\model\Service.class
+com\freelance\entity\Client.class
+com\freelance\util\HibernateUtil.class
+com\freelance\dao\ClientDAO.class
+com\freelance\entity\Service.class
+com\freelance\dao\InvoiceDAO.class
+com\freelance\model\Invoice.class
+com\freelance\MainApp.class
+com\freelance\dao\ServiceDAO.class
+com\freelance\model\Client.class
